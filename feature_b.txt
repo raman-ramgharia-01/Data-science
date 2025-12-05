@@ -1,2 +1,1 @@
-this is fearure of project
-“feature branch content”
+feature branch content
